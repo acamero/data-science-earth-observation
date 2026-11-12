@@ -23,6 +23,6 @@ You should see something like `Python 3.6.9`. This tutorial was tested on `pytho
 6. Download the pretrained models from this [link](https://syncandshare.lrz.de/getlink/fiWefy8md6CtGLQMG2Mfjc/models.zip), and unzip the content to the folder `data-science-earth-observation/models`.
 
 
-**Note**: Please, be sure to complete steps 1 to 4 before the lecture, and to install all the required packages, either by running the first block of code of the notebook or by executing `pip install -r requirements`. Then, check that everything is ready by running `python check.py`. If the required packages are installed and the data is in place, you will get an `OK`.
+**Note**: Please, be sure to complete steps 1 to 6 before the lecture, and to install all the required packages, either by running the first block of code of the notebook or by executing `pip install -r requirements`. Then, check that everything is ready by running `python check.py`. If the required packages are installed and the data is in place, you will get an `OK`.
 
 
