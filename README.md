@@ -1,4 +1,4 @@
-# HackathEOn
+# Data Science in Earth Observation - HackathEOn
 
 ## Getting Started
 
